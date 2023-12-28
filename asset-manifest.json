@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_pt/static/css/main.6decfb37.css",
+    "main.js": "/react_pt/static/js/main.ff1f621b.js",
+    "static/media/oracle.pdf": "/react_pt/static/media/oracle.53a2952489e0277399c7.pdf",
+    "static/media/microsoft_certified.pdf": "/react_pt/static/media/microsoft_certified.145908d17d1a76cb946a.pdf",
+    "static/media/react_cert.pdf": "/react_pt/static/media/react_cert.a8d4f78516667184a58b.pdf",
+    "index.html": "/react_pt/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.6decfb37.css",
+    "static/js/main.ff1f621b.js"
+  ]
+}
