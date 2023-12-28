@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Teddy Onyango",
     animated: {
-        first: "I love coding",
-        second: "I develop backend systems",
-        third: "I develop front-end systems",
+        first: "Tech is my passion",
+        second: "I am a data analyst and web developer",
+        third: "I build interactive analytic dashboards,front-end and backend systems",
     },
     description: "I believe Information Technology is the greatest innovation ever.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
